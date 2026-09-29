@@ -1,5 +1,5 @@
 # розпаковані CSV Olist — у репозиторії лежать лише *.csv.gz
-data/olist/*.csv
+data/*
 
 # службове
 .ipynb_checkpoints/
